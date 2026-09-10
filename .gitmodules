@@ -1,9 +1,9 @@
-[submodule "Project"]
-	path = Project
-	url = https://github.com/harshika2245/Project.git
 [submodule "Skill"]
 	path = Skill
 	url = https://github.com/harshika2245/Skill.git
 [submodule "Practical"]
 	path = Practical
 	url = https://github.com/harshika2245/Practical.git
+[submodule "Customer-Churn-Prediction"]
+	path = Customer-Churn-Prediction
+	url = https://github.com/harshika2245/Customer-Churn-Prediction.git
